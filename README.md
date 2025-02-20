@@ -1,2 +1,2 @@
 # demo-project
-thisis just a demo dir
+thisis just a demo dir.
